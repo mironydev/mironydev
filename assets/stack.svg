@@ -1,0 +1,146 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+.title{
+font:700 28px Inter,Segoe UI,sans-serif;
+fill:#18181B;
+}
+
+.label{
+font:600 12px Inter,Segoe UI,sans-serif;
+fill:#A1A1AA;
+letter-spacing:1.8px;
+}
+
+.item{
+font:600 22px Inter,Segoe UI,sans-serif;
+fill:#18181B;
+}
+
+.small{
+font:500 16px Inter,Segoe UI,sans-serif;
+fill:#71717A;
+}
+
+</style>
+
+
+<rect
+width="1280"
+height="360"
+rx="24"
+fill="#FCFCFB"/>
+
+
+<rect
+x="40"
+y="40"
+width="1200"
+height="280"
+rx="20"
+fill="#FFFFFF"
+stroke="#E8E8E8"/>
+
+
+<text
+x="80"
+y="90"
+class="title">
+Stack
+</text>
+
+
+<!-- Frontend -->
+
+<text
+x="80"
+y="150"
+class="label">
+FRONTEND
+</text>
+
+<text
+x="80"
+y="195"
+class="item">
+Next.js
+</text>
+
+<text
+x="80"
+y="225"
+class="small">
+React · Tailwind CSS
+</text>
+
+
+
+<!-- Backend -->
+
+<text
+x="430"
+y="150"
+class="label">
+BACKEND
+</text>
+
+<text
+x="430"
+y="195"
+class="item">
+Node.js
+</text>
+
+<text
+x="430"
+y="225"
+class="small">
+Express · REST APIs
+</text>
+
+
+
+<!-- Database -->
+
+<text
+x="780"
+y="150"
+class="label">
+DATABASE
+</text>
+
+<text
+x="780"
+y="195"
+class="item">
+MongoDB
+</text>
+
+<text
+x="780"
+y="225"
+class="small">
+Atlas · Database Design
+</text>
+
+
+
+<!-- Tools -->
+
+<text
+x="80"
+y="285"
+class="label">
+TOOLS
+</text>
+
+<text
+x="180"
+y="285"
+class="item">
+Git · GitHub · VS Code
+</text>
+
+
+</svg>

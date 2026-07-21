@@ -1,0 +1,50 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.bg{fill:#FCFCFB;}
+.line{stroke:#ECECEC;stroke-width:1.5;}
+.title{font:700 54px Inter,Segoe UI,sans-serif;fill:#18181B;}
+.subtitle{font:500 22px Inter,Segoe UI,sans-serif;fill:#71717A;}
+.badge{fill:#EEF7EE;stroke:#CFE7CF;}
+.badgeText{font:600 16px Inter,Segoe UI,sans-serif;fill:#2E7D32;}
+</style>
+
+<rect class="bg" width="1280" height="260"/>
+
+<text x="70" y="105" class="title">
+mironydev
+</text>
+
+<text x="70" y="145" class="subtitle">
+Building products with craftsmanship.
+</text>
+
+<rect
+x="70"
+y="175"
+width="130"
+height="42"
+rx="21"
+class="badge"/>
+
+<circle
+cx="94"
+cy="196"
+r="5"
+fill="#22C55E"/>
+
+<text
+x="110"
+y="202"
+class="badgeText">
+Building
+</text>
+
+<line
+class="line"
+x1="70"
+y1="245"
+x2="1210"
+y2="245"/>
+
+</svg>
