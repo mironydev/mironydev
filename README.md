@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:mironydev@gmail.com">
-    <img src="./assets/email.svg" width="20" title="Email">
+    <img src="./assets/email.svg" width="20" title="Gmail">
   </a>
    &nbsp;
   <a href="https://x.com/mironydev">
@@ -28,7 +28,7 @@
 
 ## Who Am I?
 
-I'm a developer. I build software. Specifically, software that lives on the web. I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
+I'm a developer. I build software. Specifically, software that lives on the web.<br>I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
 
 ---
 
