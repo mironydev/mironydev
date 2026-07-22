@@ -23,13 +23,13 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" draggable="false" style="pointer-events:none">
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React" draggable="false" style="pointer-events:none">
-  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" draggable="false" style="pointer-events:none">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" draggable="false" style="pointer-events:none">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" draggable="false" style="pointer-events:none">
-  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js" draggable="false" style="pointer-events:none">
-  <img src="https://skillics.dev/icons?i=mongodb" width="45" title="MongoDB" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">
 </p>
 
 ---
@@ -61,3 +61,15 @@ Online reading platform.
 <p align="center">
 Thanks for stopping by!
 </p>
+
+
+
+
+
+
+[<img src="https://github.com/user/user/blob/main/Facebook.png">](https://www.facebook.com/user/)
+
+
+<a href="https://x.com/mironydev">
+<img src="./assets/x.svg" width="35" title="X">
+</a>
