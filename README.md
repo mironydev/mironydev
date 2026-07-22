@@ -6,15 +6,15 @@ Full Stack Developer focused on building modern web applications.
 
 <p align="center">
 
-[<img src="./assets/email.svg" width="19" title="Email">](mailto:mironydev@gmail.com)
+[<img src="./assets/email.svg" width="20" title="Email">](mailto:mironydev@gmail.com)
 &nbsp;
-[<img src="./assets/x.svg" width="18" title="X">](https://x.com/mironydev)
+[<img src="./assets/x.svg" width="20" title="X">](https://x.com/mironydev)
 &nbsp;
-[<img src="./assets/linkedin.svg" width="18" title="LinkedIn">](https://www.linkedin.com/in/mironydev)
+[<img src="./assets/linkedin.svg" width="20" title="LinkedIn">](https://www.linkedin.com/in/mironydev)
 &nbsp;
-[<img src="./assets/threads.svg?1" width="18" title="Threads">](https://www.threads.com/@_mironydev)
+[<img src="./assets/threads.svg" width="20" title="Threads">](https://www.threads.com/@_mironydev)
 &nbsp;
-[<img src="./assets/facebook.svg" width="19" title="Facebook">](https://www.facebook.com/mironydev)
+[<img src="./assets/facebook.svg" width="20" title="Facebook">](https://www.facebook.com/mironydev)
 
 </p>
 
