@@ -16,9 +16,11 @@ Full Stack Developer focused on building modern web applications.
   <a href="https://www.linkedin.com/in/mironydev">
     <img src="./assets/linkedin.svg" width="20" title="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://www.threads.com/@_mironydev">
     <img src="./assets/threads.svg" width="20" title="Threads">
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/mironydev">
     <img src="./assets/facebook.svg" width="20" title="Facebook">
   </a>
