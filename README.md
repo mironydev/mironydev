@@ -11,15 +11,15 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mironydev">
-<img src="./assets/linkedin.svg" width="18" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=react" width="18" title="LinkedIn">
 </a>
 
 <a href="https://www.threads.com/@_mironydev">
-<img src="./assets/threads.svg" width="18" title="Threads">
+<img src="https://skillicons.dev/icons?i=react" width="18" title="Threads">
 </a>
 
 <a href="https://www.facebook.com/mironydev">
-<img src="./assets/facebook.svg" width="19" title="Facebook">
+<img src="https://skillicons.dev/icons?i=react" width="19" title="Facebook">
 </a>
 
 </p>
