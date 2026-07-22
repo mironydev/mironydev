@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://www.facebook.com/mironydev">
-<img src="./assets/facebook.svg" width="20" title="Facebook">
+<img src="./assets/facebook.svg" width="19" title="Facebook">
 </a>
 
 </p>
