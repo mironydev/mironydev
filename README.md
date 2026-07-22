@@ -1,27 +1,15 @@
 <h1 align="center">Hi, I'm Rony</h1>
 
 <p align="center">
+Full Stack Developer focused on building modern web applications.
+</p>
 
-<a href="mailto:mironydev@gmail.com">
-<img src="./assets/email.svg" width="35" title="Email">
-</a>
-
-<a href="https://x.com/mironydev">
-<img src="./assets/x.svg" width="35" title="X">
-</a>
-
-<a href="https://www.linkedin.com/in/mironydev">
-<img src="./assets/linkedin.svg" width="35" title="LinkedIn">
-</a>
-
-<a href="https://www.threads.com/@_mironydev">
-<img src="./assets/threads.svg" width="35" title="Threads">
-</a>
-
-<a href="https://www.facebook.com/mironydev">
-<img src="./assets/facebook.svg" width="35" title="Facebook">
-</a>
-
+<p align="center">
+<a href="mailto:mironydev@gmail.com">Email</a> •
+<a href="https://x.com/mironydev">X (Twitter)</a> •
+<a href="https://www.linkedin.com/in/mironydev">LinkedIn</a> •
+<a href="https://www.threads.com/@_mironydev">Threads</a> •
+<a href="https://www.facebook.com/mironydev">Facebook</a>
 </p>
 
 ---
@@ -73,3 +61,18 @@ Online reading platform.
 <p align="center">
 Thanks for stopping by!
 </p>
+
+
+
+
+
+
+[<img src="https://static.vecteezy.com/system/resources/thumbnails/054/876/032/small/mirror-image-snow-capped-mountain-peaks-reflected-in-pristine-lake-free-photo.jpg">](https://www.facebook.com/user/)
+
+
+<a href="https://x.com/mironydev">
+<img src="./assets/x.svg" width="35" title="Twitter">
+</a>
+
+
+[<img src="./assets/facebook.svg">](https://www.facebook.com/user/)
