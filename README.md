@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rony</h1>
 
-<p align="center">I'm a developer and my stack is full.</p>
+<p align="center">My stack is currently full and I'm a developer.</p>
 
 <p align="center">
   <a href="mailto:mironydev@gmail.com">
@@ -26,9 +26,9 @@
 
 ---
 
-## About Me
+## Who Am I?
 
-I'm a full stack developer who enjoys building fast, clean, and user focused web applications. I enjoy turning ideas into polished products while continuously improving my skills in software engineering and product development.
+I'm a developer. I build software. Specifically, software that lives on the web. I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
 
 ---
 
@@ -63,5 +63,5 @@ Online reading platform.
 ---
 
 <p align="center">
-Built with coffee and `console.logs`.
+Built with coffee and console.logs.
 </p>
