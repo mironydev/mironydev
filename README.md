@@ -4,35 +4,19 @@
 Full Stack Developer focused on building modern web applications.
 </p>
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
 [<img src="./assets/email.svg" width="22" title="Email">](mailto:mironydev@gmail.com)
-
-</td>
-<td>
-
+&nbsp;
 [<img src="./assets/x.svg" width="22" title="X">](https://x.com/mironydev)
-
-</td>
-<td>
-
+&nbsp;
 [<img src="./assets/linkedin.svg" width="22" title="LinkedIn">](https://www.linkedin.com/in/mironydev)
-
-</td>
-<td>
-
+&nbsp;
 [<img src="./assets/threads.svg" width="22" title="Threads">](https://www.threads.com/@_mironydev)
-
-</td>
-<td>
-
+&nbsp;
 [<img src="./assets/facebook.svg" width="22" title="Facebook">](https://www.facebook.com/mironydev)
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
