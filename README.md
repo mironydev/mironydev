@@ -8,9 +8,11 @@ Full Stack Developer focused on building modern web applications.
   <a href="mailto:mironydev@gmail.com">
     <img src="./assets/email.svg" width="20" title="Email">
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/mironydev">
     <img src="./assets/x.svg" width="20" title="X">
   </a>
+   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mironydev">
     <img src="./assets/linkedin.svg" width="20" title="LinkedIn">
   </a>
