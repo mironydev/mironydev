@@ -6,7 +6,7 @@ Full Stack Developer focused on building modern web applications.
 
 <p align="center">
 
-[<img src="./assets/email.svg" width="25" title="Email">](mailto:mironydev@gmail.com)
+[<img src="./assets/email.svg" width="22" title="Email">](mailto:mironydev@gmail.com)
 &nbsp;
 [<img src="./assets/x.svg" width="22" title="X">](https://x.com/mironydev)
 &nbsp;
