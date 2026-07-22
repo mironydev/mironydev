@@ -72,10 +72,10 @@ Thanks for stopping by!
 
 
 <a href="https://x.com/mironydev">
-<img src="./assets/x.svg" width="35" title="Twitter">
+<img src="./assets/facebook.svg" width="35" title="Twitter">
 </a>
 <a href="https://x.com/mironydev">
-<img src="./assets/x.svg" width="35" title="Twitter">
+<img src="./assets/facebook.svg" width="35" title="Twitter">
 </a>
 
 
