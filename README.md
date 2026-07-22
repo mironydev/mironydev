@@ -23,13 +23,13 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" draggable="false">
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React" draggable="false">
-  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" draggable="false">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" draggable="false">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" draggable="false">
-  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js" draggable="false">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB" draggable="false">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" draggable="false" style="pointer-events:none">
+  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js" draggable="false" style="pointer-events:none">
+  <img src="https://skillics.dev/icons?i=mongodb" width="45" title="MongoDB" draggable="false" style="pointer-events:none">
 </p>
 
 ---
