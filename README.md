@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="mailto:mironydev@gmail.com">
-<img src="./assets/email.svg" width="19" title="Email" style="display:inline-block;">
+<img src="https://skillicons.dev/icons?i=react" width="45">
 </a>
 
 <a href="https://x.com/mironydev">
