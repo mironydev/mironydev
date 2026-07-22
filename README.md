@@ -7,9 +7,7 @@
     <img src="./assets/social/email.svg" width="20" title="Gmail">
   </a>
    &nbsp;
-  <a href="https://x.com/mironydev">
     <img src="./assets/social/x.svg" width="20" title="X">
-  </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/mironydev">
     <img src="./assets/social/linkedin.svg" width="20" title="LinkedIn">
