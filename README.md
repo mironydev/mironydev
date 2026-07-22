@@ -66,5 +66,7 @@ Online reading platform.
 <p align="center">
   Built with coffee and <code>console.log()</code>.
 </p>
+<p align="center">
+ [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mironydev/)
+</p>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mironydev/)
