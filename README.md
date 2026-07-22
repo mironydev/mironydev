@@ -60,8 +60,8 @@ Modern news application.
 ### BookNest
 Online reading platform.
 
-...
+<hr>
 
 <p align="center">
-<sub>Built with coffee and console.logs.</sub>
+  <sub>Built with coffee and <code>console.log()</code>.</sub>
 </p>
