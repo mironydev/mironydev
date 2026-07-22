@@ -7,7 +7,9 @@
     <img src="./assets/social/email.svg" width="20" title="Gmail">
   </a>
    &nbsp;
+  <a href="https://x.com/mironydev">
     <img src="./assets/social/x.svg" width="20" title="X">
+  </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/mironydev">
     <img src="./assets/social/linkedin.svg" width="20" title="LinkedIn">
@@ -35,13 +37,13 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
-  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">
+  [<img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">](https://nextjs.org)
+  [<img src="https://skillicons.dev/icons?i=react" width="45" title="React">](https://react.dev)
+  [<img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">](https://developer.mozilla.org/docs/Web/JavaScript)
+  [<img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">](https://tailwindcss.com)
+  [<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">](https://nodejs.org)
+  [<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">](https://expressjs.com)
+  [<img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">](https://www.mongodb.com)
 </p>
 
 ---
