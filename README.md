@@ -67,12 +67,17 @@ Thanks for stopping by!
 
 
 
-[<img src="https://static.vecteezy.com/system/resources/thumbnails/054/876/032/small/mirror-image-snow-capped-mountain-peaks-reflected-in-pristine-lake-free-photo.jpg">](https://www.facebook.com/user/)
+[<img src="https://logoarena-storage.s3.amazonaws.com/contests/public/9345/12536_1544527702_50501.png">](https://www.facebook.com/user/)
+[<img src="https://logoarena-storage.s3.amazonaws.com/contests/public/9345/12536_1544527702_50501.png">](https://www.facebook.com/user/)
 
 
 <a href="https://x.com/mironydev">
 <img src="./assets/x.svg" width="35" title="Twitter">
 </a>
+<a href="https://x.com/mironydev">
+<img src="./assets/x.svg" width="35" title="Twitter">
+</a>
 
 
+[<img src="./assets/facebook.svg">](https://www.facebook.com/user/)
 [<img src="./assets/facebook.svg">](https://www.facebook.com/user/)
