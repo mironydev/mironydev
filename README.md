@@ -1,31 +1,3 @@
-<div align="center">
-
-# mironydev
-
-Building products with craftsmanship.
-
-<br>
-
-<table width="100%">
-<tr>
-<td>
-
-```
-● ● ●                                                profile.app
-
-mironydev                                         ● Building
-
-Building products with craftsmanship.
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 <table width="100%">
 <tr>
 
@@ -33,12 +5,40 @@ Building products with craftsmanship.
 
 ### Projects
 
-|  Code  | Project                                                              | Description      |
-| :----: | :------------------------------------------------------------------- | :--------------- |
-| **WS** | <a href="https://github.com/mironydev/WorkSphere">WorkSphere</a>     | Job Platform     |
-| **TV** | <a href="https://github.com/mironydev/Travault">Travault</a>         | Travel Planning  |
-| **NH** | <a href="https://github.com/mironydev/NextHeadline">NextHeadline</a> | News Platform    |
-| **BN** | <a href="https://github.com/mironydev/BookNest">BookNest</a>         | Reading Platform |
+<table>
+<tr>
+<td><b>WS</b></td>
+<td>
+<a href="https://github.com/mironydev/WorkSphere"><b>WorkSphere</b></a><br>
+<sub>Job Platform</sub>
+</td>
+</tr>
+
+<tr>
+<td><b>TV</b></td>
+<td>
+<a href="https://github.com/mironydev/Travault"><b>Travault</b></a><br>
+<sub>Travel Planning</sub>
+</td>
+</tr>
+
+<tr>
+<td><b>NH</b></td>
+<td>
+<a href="https://github.com/mironydev/NextHeadline"><b>NextHeadline</b></a><br>
+<sub>News Platform</sub>
+</td>
+</tr>
+
+<tr>
+<td><b>BN</b></td>
+<td>
+<a href="https://github.com/mironydev/BookNest"><b>BookNest</b></a><br>
+<sub>Reading Platform</sub>
+</td>
+</tr>
+
+</table>
 
 </td>
 
@@ -47,14 +47,90 @@ Building products with craftsmanship.
 ### Current Focus
 
 ```
-• Product Thinking
+Product Thinking
 
-• System Design
+System Design
 
-• UI Engineering
+UI Engineering
 ```
 
 </td>
 
 </tr>
+
+<tr>
+
+<td valign="top">
+
+### Stack
+
+```
+Frontend
+
+Next.js
+React
+Tailwind CSS
+
+Backend
+
+Node.js
+Express
+
+Database
+
+MongoDB
+```
+
+</td>
+
+<td valign="top">
+
+### Journey
+
+```
+2024
+
+Started
+
+2025
+
+Full Stack
+
+2026
+
+Building Better Products
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Email
+
+<a href="mailto:hello@example.com">
+hello@example.com
+</a>
+
+</td>
+
+<td align="right">
+
+### Connect
+
+<a href="https://x.com/yourusername">X</a>
+•
+<a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+•
+<a href="https://threads.net/@yourusername">Threads</a>
+•
+<a href="https://facebook.com/yourusername">Facebook</a>
+
+</td>
+
+</tr>
+
 </table>
