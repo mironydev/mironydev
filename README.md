@@ -36,12 +36,15 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 <h2>Tech Stack</h2>
 
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45">
-</a>
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45">
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">
+</p>
 
 ---
 
