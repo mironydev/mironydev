@@ -36,8 +36,8 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 <h2>Tech Stack</h2>
 
-  [<img src="./assets/stack/claude.svg" width="45" title="JavaScript">](https://claude.ai/)
-  [<img src="./assets/stack/codex.svg" width="45" title="JavaScript">](https://openai.com/codex/)
+  [<img src="./assets/stack/claude.svg" width="45" title="Claude">](https://claude.ai/)
+  [<img src="./assets/stack/codex.svg" width="45" title="Codex">](https://openai.com/codex/)
   
 ---
 
@@ -49,8 +49,8 @@ I don't know everything, and I don't think I ever will. That's one of the reason
   [<img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">](https://tailwindcss.com)
   [<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">](https://nodejs.org)
   [<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">](https://expressjs.com)
-  [<img src="./assets/stack/betterauth.svg" width="45" title="Better Auth">](https://better-auth.com/)
   [<img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">](https://www.mongodb.com)
+  [<img src="./assets/stack/betterauth.svg" width="45" title="Better Auth">](https://better-auth.com/)
 
 
 ---
