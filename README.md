@@ -22,49 +22,49 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 <h2>Tech Stack</h2>
 
-<table cellspacing="20" cellpadding="8">
+<table>
 <tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 <br>
-<sub>Next.js</sub>
+Next.js
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
 <br>
-<sub>React</sub>
+React
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
 <br>
-<sub>JavaScript</sub>
+JavaScript
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 <br>
-<sub>Tailwind</sub>
+Tailwind
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
 <br>
-<sub>Node.js</sub>
+Node.js
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
 <br>
-<sub>Express</sub>
+Express
 </td>
 
-<td align="center">
-<img src="https://skillics.dev/icons?i=mongodb" width="45">
+<td align="center" style="border-radius: 12px; padding: 15px;">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 <br>
-<sub>MongoDB</sub>
+MongoDB
 </td>
 
 </tr>
