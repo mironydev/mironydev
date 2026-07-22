@@ -1,13 +1,68 @@
-# mironydev
+<h1 align="center">Hi, I'm Rony 👋</h1>
 
-> Building products with craftsmanship.
+<p align="center">
+Full Stack Developer focused on building modern web applications.
+</p>
 
-🟢 **Building**
+<p align="center">
+<a href="mailto:mironydev@gmail.com">Email</a> •
+<a href="https://x.com/mironydev">X</a> •
+<a href="https://www.linkedin.com/in/mironydev">LinkedIn</a> •
+<a href="https://www.threads.com/@_mironydev">Threads</a> •
+<a href="https://www.facebook.com/mironydev">Facebook</a>
+</p>
 
-| **Selected Work**                                                                                                                                                                                                                                                                                                                                                                                             | **Stack**                                                                                                                                                                          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **WS**<br>[WorkSphere](https://github.com/mironydev/WorkSphere)<br><sub>Job Platform</sub><br><br>**TV**<br>[Travault](https://github.com/mironydev/Travault)<br><sub>Travel Planning Platform</sub><br><br>**NH**<br>[NextHeadline](https://github.com/mironydev/NextHeadline)<br><sub>News Platform</sub><br><br>**BN**<br>[BookNest](https://github.com/mironydev/BookNest)<br><sub>Reading Platform</sub> | **Frontend**<br>Next.js<br>React<br>Tailwind CSS<br><br>**Backend**<br>Node.js<br>Express<br><br>**Database**<br>MongoDB                                                           |
-| **Currently**                                                                                                                                                                                                                                                                                                                                                                                                 | **Timeline**                                                                                                                                                                       |
-| • Product Thinking<br>• System Design<br>• UI Engineering                                                                                                                                                                                                                                                                                                                                                     | **2024**<br>Started building web applications.<br><br>**2025**<br>Built full stack products.<br><br>**2026**<br>Building better software.                                          |
-| **Email**                                                                                                                                                                                                                                                                                                                                                                                                     | **Connect**                                                                                                                                                                        |
-| [mironydev@gmail.com](mailto:mironydev@gmail.com)                                                                                                                                                                                                                                                                                                                                                             | [X](https://x.com/mironydev) • [LinkedIn](https://www.linkedin.com/in/mironydev) • [Threads](https://www.threads.com/@_mironydev) • [Facebook](https://www.facebook.com/mironydev) |
+---
+
+## About Me
+
+I'm a full stack developer who enjoys building fast, clean, and user focused web applications. I enjoy turning ideas into polished products while continuously improving my skills in software engineering and product development.
+
+---
+
+## Featured Projects
+
+### 🚀 WorkSphere
+Job platform built with the MERN stack.
+
+### ✈️ Travault
+Travel planning platform.
+
+### 📰 NextHeadline
+Modern news application.
+
+### 📚 BookNest
+Online reading platform.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+---
+
+## Currently
+
+* Building full stack applications
+* Learning system design
+* Improving UI engineering
+
+---
+
+<p align="center">
+Thanks for stopping by!
+</p>
