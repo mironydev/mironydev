@@ -4,23 +4,23 @@
 
 <p align="center">
   <a href="mailto:mironydev@gmail.com">
-    <img src="./assets/email.svg" width="20" title="Gmail">
+    <img src="./assets/social/email.svg" width="20" title="Gmail">
   </a>
    &nbsp;
   <a href="https://x.com/mironydev">
-    <img src="./assets/x.svg" width="20" title="X">
+    <img src="./assets/social/x.svg" width="20" title="X">
   </a>
    &nbsp;
   <a href="https://www.linkedin.com/in/mironydev">
-    <img src="./assets/linkedin.svg" width="20" title="LinkedIn">
+    <img src="./assets/social/linkedin.svg" width="20" title="LinkedIn">
   </a>
   &nbsp;
   <a href="https://www.threads.com/@_mironydev">
-    <img src="./assets/threads.svg" width="20" title="Threads">
+    <img src="./assets/social/threads.svg" width="20" title="Threads">
   </a>
   &nbsp;
   <a href="https://www.facebook.com/mironydev">
-    <img src="./assets/facebook.svg" width="20" title="Facebook">
+    <img src="./assets/social/facebook.svg" width="20" title="Facebook">
   </a>
 </p>
 
@@ -28,20 +28,22 @@
 
 ## Who Am I?
 
-I'm a developer. I build software. Specifically, software that lives on the web.<br>I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
+I'm a developer. I build software. Specifically, software that lives on the web.
+<br>
+I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
 
 ---
 
 <h2>Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
-  <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
-  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">
-  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">
+  <a href="https://nextjs.org">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
+  </a>
+
+  <a href="https://react.dev">
+    <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
+  </a>
 </p>
 
 ---
