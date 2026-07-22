@@ -22,7 +22,7 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 <h2>Tech Stack</h2>
 
-<table cellspacing="20" cellpadding="8">
+<table>
 <tr>
 
 <td align="center">
@@ -31,11 +31,15 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 <sub>Next.js</sub>
 </td>
 
+<td width="25"></td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="45">
 <br>
 <sub>React</sub>
 </td>
+
+<td width="25"></td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=js" width="45">
@@ -43,11 +47,15 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 <sub>JavaScript</sub>
 </td>
 
+<td width="25"></td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="45">
 <br>
 <sub>Tailwind</sub>
 </td>
+
+<td width="25"></td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="45">
@@ -55,14 +63,18 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 <sub>Node.js</sub>
 </td>
 
+<td width="25"></td>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=express" width="45">
 <br>
 <sub>Express</sub>
 </td>
 
+<td width="25"></td>
+
 <td align="center">
-<img src="https://skillics.dev/icons?i=mongodb" width="45">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45">
 <br>
 <sub>MongoDB</sub>
 </td>
