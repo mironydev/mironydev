@@ -22,9 +22,11 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb," />
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,nodejs,express,mongodb,git,github,vscode,vercel" height="40" />
 </p>
+
+Next.js • React • JavaScript • Tailwind CSS • Node.js • Express.js • MongoDB • Git • GitHub • VS Code • Vercel
 
 ---
 
