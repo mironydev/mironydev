@@ -20,42 +20,17 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 ---
 
-<table>
-<tr>
+<h2>Tech Stack</h2>
 
-<td align="center">
-<br><br>
-<img src="https://skillicons.dev/icons?i=nextjs" width="45">
-<br>
-<sub>Next.js</sub>
-</td>
-
-<td align="center">
-<br><br>
-<img src="https://skillicons.dev/icons?i=react" width="45">
-<br>
-<sub>React</sub>
-</td>
-
-<td align="center">
-<img 
-  src="https://skillicons.dev/icons?i=nextjs" 
-  width="45" 
-  title="Next.js"
-/>
-<br>
-<sub>Next.js</sub>
-</td>
-
-<td align="center">
-<br><br>
-<img src="https://skillicons.dev/icons?i=js" width="45">
-<br>
-<sub>JavaScript</sub>
-</td>
-
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js" draggable="false">
+  <img src="https://skillicons.dev/icons?i=react" width="45" title="React" draggable="false">
+  <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" draggable="false">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS" draggable="false">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js" draggable="false">
+  <img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js" draggable="false">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB" draggable="false">
+</p>
 
 ---
 
