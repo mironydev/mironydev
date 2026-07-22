@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.threads.com/@_mironydev">
-<img src="./assets/threads.svg" width="25" title="Threads">
+<img src="./assets/threads.svg" width="20" title="Threads">
 </a>
 
 <a href="https://www.facebook.com/mironydev">
