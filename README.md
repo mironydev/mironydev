@@ -7,8 +7,7 @@
 </a>
 
 <a href="https://x.com/mironydev">
-<img src="./assets/x.svg" width="18" title="X" style="display:inline-block;">
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb" width="18"></a>
 
 <a href="https://www.linkedin.com/in/mironydev">
 <img src="./assets/linkedin.svg" width="18" title="LinkedIn" style="display:inline-block;">
