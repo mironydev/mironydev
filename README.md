@@ -36,9 +36,13 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 <h2>Tech Stack</h2>
 
-[<img src="./assets/nextjs.svg" width="45" title="Next.js">](https://nextjs.org)
-[<img src="./assets/react.svg" width="45" title="React">](https://react.dev)
-[<img src="./assets/javascript.svg" width="45" title="JavaScript">](https://developer.mozilla.org/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">](https://nextjs.org)
+[<img src="https://skillicons.dev/icons?i=react" width="45" title="React">](https://react.dev)
+[<img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">](https://developer.mozilla.org/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS">](https://tailwindcss.com)
+[<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">](https://nodejs.org)
+[<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js">](https://expressjs.com)
+[<img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB">](https://www.mongodb.com)
 
 ---
 
