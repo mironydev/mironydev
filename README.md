@@ -36,6 +36,15 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 <h2>Tech Stack</h2>
 
+  [<img src="./assets/stack/claude.svg" width="45" title="JavaScript">](https://claude.ai/)
+  [<img src="./assets/stack/codex.svg" width="45" title="JavaScript">]()
+  
+
+
+---
+
+<h2>Supporting Tech Stack</h2>
+
   [<img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript">](https://developer.mozilla.org/docs/Web/JavaScript)
   [<img src="https://skillicons.dev/icons?i=react" width="45" title="React">](https://react.dev)
   [<img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">](https://nextjs.org)
@@ -66,7 +75,5 @@ Online reading platform.
 <p align="center">
   Built with coffee and <code>console.log()</code>.
 </p>
-<div align="center">
- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mironydev/)
-</div>
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mironydev/)
