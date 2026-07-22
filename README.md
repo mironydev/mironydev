@@ -22,11 +22,51 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,nodejs,express,mongodb,git,github,vscode,vercel" height="40" />
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" />
+<br>
+Next.js
+</td>
 
-Next.js • React • JavaScript • Tailwind CSS • Node.js • Express.js • MongoDB • Git • GitHub • VS Code • Vercel
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45" />
+<br>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="45" />
+<br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" />
+<br>
+Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+<br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="45" />
+<br>
+Express
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+<br>
+MongoDB
+</td>
+</tr>
+</table>
 
 ---
 
