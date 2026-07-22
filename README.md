@@ -1,44 +1,43 @@
-<table width="100%">
+<div align="center">
+
+# mironydev
+
+Building products with craftsmanship.
+
+🟢 **Building**
+
+</div>
+
+<br>
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
 ### Projects
 
-<table>
-<tr>
-<td><b>WS</b></td>
-<td>
-<a href="https://github.com/mironydev/WorkSphere"><b>WorkSphere</b></a><br>
+**WS**  
+<a href="https://github.com/mironydev/WorkSphere">WorkSphere</a>  
 <sub>Job Platform</sub>
-</td>
-</tr>
 
-<tr>
-<td><b>TV</b></td>
-<td>
-<a href="https://github.com/mironydev/Travault"><b>Travault</b></a><br>
+<br><br>
+
+**TV**  
+<a href="https://github.com/mironydev/Travault">Travault</a>  
 <sub>Travel Planning</sub>
-</td>
-</tr>
 
-<tr>
-<td><b>NH</b></td>
-<td>
-<a href="https://github.com/mironydev/NextHeadline"><b>NextHeadline</b></a><br>
+<br><br>
+
+**NH**  
+<a href="https://github.com/mironydev/NextHeadline">NextHeadline</a>  
 <sub>News Platform</sub>
-</td>
-</tr>
 
-<tr>
-<td><b>BN</b></td>
-<td>
-<a href="https://github.com/mironydev/BookNest"><b>BookNest</b></a><br>
+<br><br>
+
+**BN**  
+<a href="https://github.com/mironydev/BookNest">BookNest</a>  
 <sub>Reading Platform</sub>
-</td>
-</tr>
-
-</table>
 
 </td>
 
@@ -46,13 +45,15 @@
 
 ### Current Focus
 
-```
-Product Thinking
+• Product Thinking
 
-System Design
+<br>
 
-UI Engineering
-```
+• System Design
+
+<br>
+
+• UI Engineering
 
 </td>
 
@@ -64,22 +65,27 @@ UI Engineering
 
 ### Stack
 
-```
-Frontend
+**Frontend**
 
 Next.js
+
 React
+
 Tailwind CSS
 
-Backend
+<br>
+
+**Backend**
 
 Node.js
+
 Express
 
-Database
+<br>
+
+**Database**
 
 MongoDB
-```
 
 </td>
 
@@ -87,19 +93,21 @@ MongoDB
 
 ### Journey
 
-```
-2024
+**2024**
 
-Started
+Started building web applications
 
-2025
+<br>
 
-Full Stack
+**2025**
 
-2026
+Began building full stack products
 
-Building Better Products
-```
+<br>
+
+**2026**
+
+Building better software
 
 </td>
 
@@ -121,7 +129,7 @@ hello@example.com
 
 ### Connect
 
-<a href="https://x.com/yourusername">X</a>
+<a href="https://x.com/mironydev">X</a>
 •
 <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
 •
