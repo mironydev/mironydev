@@ -1,8 +1,18 @@
 <p align="center">
-  <img src="./assets/app-header.svg" width="100%">
-  <img src="./assets/hero.svg" width="100%">
-  <img src="./assets/projects.svg" width="100%">
-  <img src="./assets/stack.svg" width="100%">
-  <img src="./assets/journey.svg" width="100%">
-  <img src="./assets/footer.svg" width="100%">
+  <a href="mailto:mironydev@example.com">Email</a>
+  ·
+  <a href="https://x.com/mironydev">X (Twitter)</a>
+  ·
+  <a href="https://www.linkedin.com/in/mironydev">LinkedIn</a>
+  .
+  <a href="https://github.com/mironydev">Threads</a>
+  ·
+  <a href="https://www.facebook.com/mironydev">Facebook</a>
+  ·
+  <a href="https://github.com/mironydev">GitHub</a>
+  ·
+  <a href="https://github.com/mironydev">GitHub</a>
+  ·
+  <a href="https://github.com/mironydev">GitHub</a>
+  ·
 </p>

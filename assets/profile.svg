@@ -1,0 +1,426 @@
+<svg
+    width="1280"
+    height="920"
+    viewBox="0 0 1280 920"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <style>
+
+.background{
+fill:#FCFCFB;
+}
+
+.window{
+fill:#FFFFFF;
+stroke:#E8E8E8;
+stroke-width:1;
+}
+
+.divider{
+stroke:#E8E8E8;
+stroke-width:1;
+}
+
+.title{
+font:700 18px Inter,Segoe UI,sans-serif;
+fill:#18181B;
+}
+
+.hero{
+font:700 42px Inter,Segoe UI,sans-serif;
+fill:#18181B;
+}
+
+.subtitle{
+font:500 18px Inter,Segoe UI,sans-serif;
+fill:#71717A;
+}
+
+.section{
+font:700 18px Inter,Segoe UI,sans-serif;
+fill:#18181B;
+}
+
+.small{
+font:600 13px Inter,Segoe UI,sans-serif;
+fill:#A1A1AA;
+letter-spacing:.08em;
+}
+
+.body{
+font:500 16px Inter,Segoe UI,sans-serif;
+fill:#71717A;
+}
+
+</style>
+
+    <rect
+        class="background"
+        width="1280"
+        height="920" />
+
+    <rect
+        class="window"
+        x="40"
+        y="40"
+        width="1200"
+        height="840"
+        rx="24" />
+
+    <line
+        class="divider"
+        x1="40"
+        y1="92"
+        x2="1240"
+        y2="92" />
+
+    <circle
+        cx="72"
+        cy="66"
+        r="6"
+        fill="#FF5F57" />
+
+    <circle
+        cx="92"
+        cy="66"
+        r="6"
+        fill="#FEBC2E" />
+
+    <circle
+        cx="112"
+        cy="66"
+        r="6"
+        fill="#28C840" />
+
+    <text
+        x="640"
+        y="72"
+        text-anchor="middle"
+        class="title">
+        profile.app
+    </text>
+
+    <text
+        x="1180"
+        y="72"
+        text-anchor="end"
+        class="small">
+        v0.1.0
+    </text><!-- Hero -->
+
+    <text
+        x="80"
+        y="165"
+        class="hero">
+        mironydev
+    </text>
+
+    <text
+        x="80"
+        y="205"
+        class="subtitle">
+        Building products with craftsmanship.
+    </text>
+
+    <!-- Status Pill -->
+
+    <rect
+        x="1010"
+        y="135"
+        width="150"
+        height="42"
+        rx="21"
+        fill="#F7F7F7"
+        stroke="#E8E8E8" />
+
+    <circle
+        cx="1036"
+        cy="156"
+        r="5"
+        fill="#22C55E" />
+
+    <text
+        x="1052"
+        y="162"
+        class="body"
+        fill="#18181B">
+        Building
+    </text>
+
+    <!-- Divider -->
+
+    <line
+        class="divider"
+        x1="80"
+        y1="245"
+        x2="1200"
+        y2="245" />
+    <!-- Left Panel -->
+
+    <line
+        class="divider"
+        x1="430"
+        y1="245"
+        x2="430"
+        y2="760" />
+
+    <text
+        x="80"
+        y="285"
+        class="section">
+        Projects
+    </text>
+
+    <!-- Project 1 -->
+
+    <rect
+        x="80"
+        y="315"
+        width="38"
+        height="38"
+        rx="10"
+        fill="#F6F6F6"
+        stroke="#E8E8E8" />
+
+    <text
+        x="99"
+        y="339"
+        text-anchor="middle"
+        style="font:700 13px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        WS
+    </text>
+
+    <text
+        x="140"
+        y="339"
+        style="font:600 18px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        WorkSphere
+    </text>
+
+    <!-- Project 2 -->
+
+    <rect
+        x="80"
+        y="375"
+        width="38"
+        height="38"
+        rx="10"
+        fill="#F6F6F6"
+        stroke="#E8E8E8" />
+
+    <text
+        x="99"
+        y="399"
+        text-anchor="middle"
+        style="font:700 13px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        TV
+    </text>
+
+    <text
+        x="140"
+        y="399"
+        style="font:600 18px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        Travault
+    </text>
+
+    <!-- Project 3 -->
+
+    <rect
+        x="80"
+        y="435"
+        width="38"
+        height="38"
+        rx="10"
+        fill="#F6F6F6"
+        stroke="#E8E8E8" />
+
+    <text
+        x="99"
+        y="459"
+        text-anchor="middle"
+        style="font:700 13px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        NH
+    </text>
+
+    <text
+        x="140"
+        y="459"
+        style="font:600 18px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        NextHeadline
+    </text>
+
+    <!-- Project 4 -->
+
+    <rect
+        x="80"
+        y="495"
+        width="38"
+        height="38"
+        rx="10"
+        fill="#F6F6F6"
+        stroke="#E8E8E8" />
+
+    <text
+        x="99"
+        y="519"
+        text-anchor="middle"
+        style="font:700 13px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        BN
+    </text>
+
+    <text
+        x="140"
+        y="519"
+        style="font:600 18px Inter,Segoe UI,sans-serif;fill:#18181B;">
+        BookNest
+    </text>
+    <!-- Right Panel -->
+
+    <text
+        x="470"
+        y="285"
+        class="section">
+        Focus
+    </text>
+
+    <circle
+        cx="480"
+        cy="330"
+        r="4"
+        fill="#22C55E" />
+
+    <text
+        x="495"
+        y="336"
+        class="body">
+        Product Thinking
+    </text>
+
+    <circle
+        cx="480"
+        cy="375"
+        r="4"
+        fill="#22C55E" />
+
+    <text
+        x="495"
+        y="381"
+        class="body">
+        System Design
+    </text>
+
+    <circle
+        cx="480"
+        cy="420"
+        r="4"
+        fill="#22C55E" />
+
+    <text
+        x="495"
+        y="426"
+        class="body">
+        UI Engineering
+    </text>
+
+    <!-- Horizontal Divider -->
+
+    <line
+        class="divider"
+        x1="430"
+        y1="470"
+        x2="1200"
+        y2="470" />
+
+    <!-- Stack -->
+
+    <text
+        x="470"
+        y="515"
+        class="section">
+        Stack
+    </text>
+
+    <text
+        x="470"
+        y="555"
+        class="small">
+        FRONTEND
+    </text>
+
+    <text
+        x="470"
+        y="585"
+        class="body">
+        Next.js • React • Tailwind CSS
+    </text>
+
+    <text
+        x="470"
+        y="635"
+        class="small">
+        BACKEND
+    </text>
+
+    <text
+        x="470"
+        y="665"
+        class="body">
+        Node.js • Express
+    </text>
+
+    <text
+        x="470"
+        y="715"
+        class="small">
+        DATABASE
+    </text>
+
+    <text
+        x="470"
+        y="745"
+        class="body">
+        MongoDB
+    </text>
+    <!-- Footer Divider -->
+
+    <line
+        class="divider"
+        x1="80"
+        y1="760"
+        x2="1200"
+        y2="760" />
+
+    <!-- Column 1 -->
+
+    <text
+        x="80"
+        y="805"
+        class="small">
+        EMAIL
+    </text>
+
+    <text
+        x="80"
+        y="845"
+        class="body">
+        mironydev@gmail.com
+    </text>
+
+    <!-- Column 2 -->
+
+    <text
+        x="470"
+        y="805"
+        class="small">
+        SOCIALS
+    </text>
+
+    <text
+        x="470"
+        y="845"
+        class="body">
+        X (Twitter) • LinkedIn • Threads • Facebook
+    </text>
+
+</svg>
