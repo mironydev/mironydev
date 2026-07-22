@@ -3,22 +3,23 @@
 <p align="center">
 
 <a href="mailto:mironydev@gmail.com">
-<img src="https://skillicons.dev/icons?i=react" width="45">
+<img src="https://skillicons.dev/icons?i=react" width="18" title="Email" style="display:block;">
 </a>
 
 <a href="https://x.com/mironydev">
-<img src="https://skillicons.dev/icons?i=mongodb" width="18"></a>
+<img src="https://skillicons.dev/icons?i=mongodb" width="18" title="X" style="display:block;">
+</a>
 
 <a href="https://www.linkedin.com/in/mironydev">
-<img src="./assets/linkedin.svg" width="18" title="LinkedIn" style="display:inline-block;">
+<img src="./assets/linkedin.svg" width="18" title="LinkedIn" style="display:block;">
 </a>
 
 <a href="https://www.threads.com/@_mironydev">
-<img src="./assets/threads.svg" width="18" title="Threads" style="display:inline-block;">
+<img src="./assets/threads.svg" width="18" title="Threads" style="display:block;">
 </a>
 
 <a href="https://www.facebook.com/mironydev">
-<img src="./assets/facebook.svg" width="19" title="Facebook" style="display:inline-block;">
+<img src="./assets/facebook.svg" width="19" title="Facebook" style="display:block;">
 </a>
 
 </p>
