@@ -36,15 +36,9 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 <h2>Tech Stack</h2>
 
-<p>
-  <a href="https://nextjs.org">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js">
-  </a>
-
-  <a href="https://react.dev">
-    <img src="https://skillicons.dev/icons?i=react" width="45" title="React">
-  </a>
-</p>
+[<img src="./assets/nextjs.svg" width="45" title="Next.js">](https://nextjs.org)
+[<img src="./assets/react.svg" width="45" title="React">](https://react.dev)
+[<img src="./assets/javascript.svg" width="45" title="JavaScript">](https://developer.mozilla.org/docs/Web/JavaScript)
 
 ---
 
