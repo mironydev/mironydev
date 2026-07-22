@@ -5,11 +5,17 @@ Full Stack Developer focused on building modern web applications.
 </p>
 
 <p align="center">
-<a href="mailto:mironydev@gmail.com">Email</a> •
-<a href="https://x.com/mironydev">X (Twitter)</a> •
-<a href="https://www.linkedin.com/in/mironydev">LinkedIn</a> •
-<a href="https://www.threads.com/@_mironydev">Threads</a> •
-<a href="https://www.facebook.com/mironydev">Facebook</a>
+
+[<img src="./assets/email.svg" width="19" title="Email">](mailto:mironydev@gmail.com)
+&nbsp;
+[<img src="./assets/x.svg" width="18" title="X">](https://x.com/mironydev)
+&nbsp;
+[<img src="./assets/linkedin.svg" width="18" title="LinkedIn">](https://www.linkedin.com/in/mironydev)
+&nbsp;
+[<img src="./assets/threads.svg" width="18" title="Threads">](https://www.threads.com/@_mironydev)
+&nbsp;
+[<img src="./assets/facebook.svg" width="19" title="Facebook">](https://www.facebook.com/mironydev)
+
 </p>
 
 ---
@@ -61,23 +67,3 @@ Online reading platform.
 <p align="center">
 Thanks for stopping by!
 </p>
-
-
-
-
-
-
-[<img src="https://logoarena-storage.s3.amazonaws.com/contests/public/9345/12536_1544527702_50501.png">](https://www.facebook.com/user/)
-[<img src="https://logoarena-storage.s3.amazonaws.com/contests/public/9345/12536_1544527702_50501.png">](https://www.facebook.com/user/)
-
-
-<a href="https://x.com/mironydev">
-<img src="./assets/facebook.svg" width="35" title="Twitter">
-</a>
-<a href="https://x.com/mironydev">
-<img src="./assets/facebook.svg" width="35" title="Twitter">
-</a>
-
-
-[<img src="./assets/facebook.svg">](https://www.facebook.com/user/)
-[<img src="./assets/facebook.svg">](https://www.facebook.com/user/)
