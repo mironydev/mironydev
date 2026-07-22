@@ -22,12 +22,9 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb" />
+</p>
 
 ---
 
