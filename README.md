@@ -1,18 +1,28 @@
 <h1 align="center">Hi, I'm Rony</h1>
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:mironydev@gmail.com">
-<img src="https://skillicons.dev/icons?i=react" width="18" title="Email">
+<img src="./assets/email.svg" width="35" title="Email">
 </a>
-
-&nbsp;
 
 <a href="https://x.com/mironydev">
-<img src="https://skillicons.dev/icons?i=mongodb" width="18" title="X">
+<img src="./assets/x.svg" width="35" title="X">
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/mironydev">
+<img src="./assets/linkedin.svg" width="35" title="LinkedIn">
+</a>
+
+<a href="https://www.threads.com/@_mironydev">
+<img src="./assets/threads.svg" width="35" title="Threads">
+</a>
+
+<a href="https://www.facebook.com/mironydev">
+<img src="./assets/facebook.svg" width="35" title="Facebook">
+</a>
+
+</p>
 
 ---
 
