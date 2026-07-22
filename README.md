@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="mailto:mironydev@gmail.com">
-<img src="./assets/email.svg" width="18" title="Email">
+<img src="./assets/email.svg" width="19" title="Email">
 </a>
 
 <a href="https://x.com/mironydev">
@@ -15,11 +15,11 @@
 </a>
 
 <a href="https://www.threads.com/@_mironydev">
-<img src="./assets/threads.svg" width="18" title="Threads">
+<img src="./assets/threads.svg" width="25" title="Threads">
 </a>
 
 <a href="https://www.facebook.com/mironydev">
-<img src="./assets/facebook.svg" width="18" title="Facebook">
+<img src="./assets/facebook.svg" width="20" title="Facebook">
 </a>
 
 </p>
