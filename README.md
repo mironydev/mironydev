@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Rony</h1>
 
-<p align="center">
-Full Stack Developer focused on building modern web applications.
-</p>
+<p align="center">I'm a developer and my stack is full.</p>
 
 <p align="center">
   <a href="mailto:mironydev@gmail.com">
@@ -64,14 +62,6 @@ Online reading platform.
 
 ---
 
-## Currently
-
-* Building full stack applications
-* Learning system design
-* Improving UI engineering
-
----
-
 <p align="center">
-Thanks for stopping by!
+Built with coffee and `console.logs`.
 </p>
