@@ -63,5 +63,5 @@ Online reading platform.
 ---
 
 <p align="center">
-Built with coffee and console.logs.
+<sub>Built with coffee and console.logs.</sub>
 </p>
