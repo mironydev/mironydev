@@ -23,7 +23,7 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb,typescript,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb," />
 </p>
 
 ---
