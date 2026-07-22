@@ -1,126 +1,77 @@
-<div align="center">
-
 # mironydev
 
-Building products with craftsmanship.
+> Building products with craftsmanship.
 
 🟢 **Building**
 
-</div>
+---
 
-<br>
+## Selected Work
 
-<table>
-<tr>
+### WS · WorkSphere
+Job Platform
 
-<td width="50%" valign="top">
+### TV · Travault
+Travel Planning Platform
 
-### Projects
+### NH · NextHeadline
+News Platform
 
-**WS**  
-<a href="https://github.com/mironydev/WorkSphere">WorkSphere</a>  
-<sub>Job Platform</sub>
+### BN · BookNest
+Reading Platform
 
-<br><br>
+---
 
-**TV**  
-<a href="https://github.com/mironydev/Travault">Travault</a>  
-<sub>Travel Planning</sub>
-
-<br><br>
-
-**NH**  
-<a href="https://github.com/mironydev/NextHeadline">NextHeadline</a>  
-<sub>News Platform</sub>
-
-<br><br>
-
-**BN**  
-<a href="https://github.com/mironydev/BookNest">BookNest</a>  
-<sub>Reading Platform</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Current Focus
-
-• Product Thinking
-
-<br>
-
-• System Design
-
-<br>
-
-• UI Engineering
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### Stack
+## Stack
 
 **Frontend**
 
-Next.js
-
-React
-
-Tailwind CSS
-
-<br>
+Next.js • React • Tailwind CSS
 
 **Backend**
 
-Node.js
-
-Express
-
-<br>
+Node.js • Express
 
 **Database**
 
 MongoDB
 
-</td>
+---
 
-<td valign="top">
+## Currently
 
-### Journey
+• Product Thinking
+
+• System Design
+
+• UI Engineering
+
+---
+
+## Timeline
 
 **2024**
 
-Started building web applications
-
-<br>
+Started building web applications.
 
 **2025**
 
-Began building full stack products
-
-<br>
+Built full stack products.
 
 **2026**
 
-Building better software
+Building better software.
 
-</td>
+---
 
-</tr>
-
+<table width="100%">
 <tr>
-
 <td>
 
 ### Email
 
-<a href="mailto:hello@example.com">
-hello@example.com
+<a href="mailto:mironydev@gmail.com">
+mironydev@gmail.com
 </a>
 
 </td>
@@ -129,16 +80,11 @@ hello@example.com
 
 ### Connect
 
-<a href="https://x.com/mironydev">X</a>
-•
-<a href="https://linkedin.com/in/yourusername">LinkedIn</a>
-•
-<a href="https://threads.net/@yourusername">Threads</a>
-•
-<a href="https://facebook.com/yourusername">Facebook</a>
+<a href="https://x.com/mironydev">X</a> •
+<a href="https://www.linkedin.com/in/mironydev">LinkedIn</a> •
+<a href="https://www.threads.com/@_mironydev">Threads</a> •
+<a href="https://www.facebook.com/mironydev">Facebook</a>
 
 </td>
-
 </tr>
-
 </table>
