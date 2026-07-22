@@ -38,6 +38,16 @@ I'm a full stack developer who enjoys building fast, clean, and user focused web
 </td>
 
 <td align="center">
+<img 
+  src="https://skillicons.dev/icons?i=nextjs" 
+  width="45" 
+  title="Next.js"
+/>
+<br>
+<sub>Next.js</sub>
+</td>
+
+<td align="center">
 <br><br>
 <img src="https://skillicons.dev/icons?i=js" width="45">
 <br>
