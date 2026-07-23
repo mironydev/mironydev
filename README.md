@@ -72,6 +72,7 @@ Online reading platform.
 ---
 
 <h2>Find me on the internet</h2>
+
 [<img src="./assets/social/email.svg" width="45" title="Email">](mailto:mironydev@gmail.com)
 [<img src="./assets/social/x.svg" width="45" title="X">](https://x.com/mironydev)
 [<img src="./assets/social/linkedin.svg" width="45" title="LinkedIn">](https://www.linkedin.com/in/mironydev/)
