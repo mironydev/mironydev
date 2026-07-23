@@ -59,16 +59,16 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 
 ## Featured Projects
 
-◆ **[WorkSphere](https://github.com/mironydev/work-sphere)**
+**01** · **[WorkSphere](https://github.com/mironydev/work-sphere)**
 Job platform built with the MERN stack.
 
-◆ **[Travault](https://github.com/mironydev/travault)**
+**02** · **[Travault](https://github.com/mironydev/travault)**
 Travel planning platform.
 
-◆ **[NextHeadline](https://github.com/mironydev/next-headline)**
+**03** · **[NextHeadline](https://github.com/mironydev/next-headline)**
 Modern news application.
 
-◆ **[BookNest](https://github.com/mironydev/booknest)**
+**04** · **[BookNest](https://github.com/mironydev/booknest)**
 Online reading platform.
 
 ---
