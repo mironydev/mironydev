@@ -73,11 +73,11 @@ Online reading platform.
 
 <h2>Find me on the internet</h2>
 
-[<img src="./assets/social/email.svg" width="45" title="Email">](mailto:mironydev@gmail.com)
-[<img src="./assets/social/x.svg" width="45" title="X">](https://x.com/mironydev)
-[<img src="./assets/social/linkedin.svg" width="45" title="LinkedIn">](https://www.linkedin.com/in/mironydev/)
-[<img src="./assets/social/facebook.svg" width="45" title="Facebook">](https://www.facebook.com/mironydev)
-[<img src="./assets/social/threads.svg" width="45" title="Threads">](https://www.threads.com/@_mironydev)
+[<img src="./assets/social/email.svg" width="30" title="Email">](mailto:mironydev@gmail.com)&nbsp;
+[<img src="./assets/social/x.svg" width="30" title="X">](https://x.com/mironydev)&nbsp;
+[<img src="./assets/social/linkedin.svg" width="30" title="LinkedIn">](https://www.linkedin.com/in/mironydev/)&nbsp;
+[<img src="./assets/social/facebook.svg" width="30" title="Facebook">](https://www.facebook.com/mironydev)&nbsp;
+[<img src="./assets/social/threads.svg" width="30" title="Threads">](https://www.threads.com/@_mironydev)
 
 
 ---
