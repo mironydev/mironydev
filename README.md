@@ -30,7 +30,7 @@
 
 I'm a developer. I build software. Specifically, software that lives on the web.
 <br>
-I don't know everything, and I don't think I ever will. That's one of the reasons I enjoy programming.
+I don't know everything, and I don't think I ever will. That's one of the reasons I like programming.
 
 ---
 
@@ -58,13 +58,13 @@ I don't know everything, and I don't think I ever will. That's one of the reason
 ## Featured Projects
 
 ◆ **[WorkSphere](https://github.com/mironydev/work-sphere)**
-Job platform built with MERN stack.
+Role based job platform built with MERN stack.
 
 ◆ **[Travault](https://github.com/mironydev/travault)**
-Travel planning platform.
+A web app where users can plan, book, and manage trips.
 
 ◆ **[NextHeadline](https://github.com/mironydev/next-headline)**
-Modern news application.
+A basic clone of a news website.
 
 ---
 
