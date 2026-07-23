@@ -72,8 +72,24 @@ Online reading platform.
 ---
 
 <h2>Find me on the internet</h2>
+<a href="mailto:mironydev@gmail.com">
+  <img src="./assets/email.svg" width="45" alt="Email">
+</a>
+
+<a href="https://x.com/mironydev">
+  <img src="./assets/x.svg" width="45" alt="X">
+</a>
+
 <a href="https://www.linkedin.com/in/mironydev/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="10" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
+</a>
+
+<a href="https://www.threads.com/@_mironydev">
+  <img src="./assets/threads.svg" width="45" alt="Threads">
+</a>
+
+<a href="https://www.facebook.com/mironydev">
+  <img src="./assets/facebook.svg" width="45" alt="Facebook">
 </a>
 
 ---
