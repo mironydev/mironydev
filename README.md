@@ -71,8 +71,13 @@ Online reading platform.
 
 ---
 
+<h2>Find me on the internet</h2>
+<a href="https://www.linkedin.com/in/mironydev/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="10" alt="LinkedIn">
+</a>
+
+---
+
 <p align="center">
   Built with coffee and <code>console.log()</code>.
 </p>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mironydev/)
